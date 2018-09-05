@@ -7,7 +7,8 @@
 		{
 			"matches":["https://www.amazon.co.jp/registry/wishlist/*",
 						"https://www.amazon.co.jp/gp/registry/wishlist/*",
-						"https://www.amazon.co.jp/gp/wishlist/*"],
+						"https://www.amazon.co.jp/gp/wishlist/*",
+						"https://www.amazon.co.jp/hz/wishlist/*"],
 			"js":["jquery-3.1.1.min.js", "content.js"],
 			"run_at":"document_end"
 		}
